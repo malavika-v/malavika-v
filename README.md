@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **c++,html,css javascript**
 
-- 📫 How to reach me **malavikav45@hmail.com**
+- 📫 How to reach me **malavikav45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
