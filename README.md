@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Malavika V</h1>
-<h3 align="center">A Full Stack Developer (MERN) looking for Software Developer roles | GSoC'25 Aspirant 💻🌱</h3>
+<h3 align="center">A Full Stack Developer (MERN) looking for Software Developer roles |  💻🌱</h3>
 
 - 🎓 BTech CSE Graduate  
-- 🔭 Currently working on: **Open Source (GSoC 2025) & Full Stack Projects**  
+- 🔭 Currently working on: **Open Source & Full Stack Projects**  
 - 🌱 Learning: **System Design, TypeScript**  
 - 💬 Ask me about: **C++, HTML, CSS, JavaScript, React, Node.js, MongoDB**  
 - 📫 Connect with me: **malavikav45@gmail.com**
